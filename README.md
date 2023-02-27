@@ -1,4 +1,1 @@
-# Practico_1
-# Sabine Lohner
-# Diego Párraga
-# Sergio Escalante
+# Practico_1 por Sabine Lohner, Diego Párraga y Sergio Escalante
